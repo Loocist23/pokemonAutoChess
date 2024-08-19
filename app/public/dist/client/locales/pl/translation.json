@@ -11,6 +11,11 @@
     "HATCH": "Wykluty",
     "SPECIAL": "Specjalny"
   },
+  "pool": {
+    "regular": "Regularny",
+    "additional": "Dodatkowy",
+    "regional": "Regionalny"
+  },
   "damage": {
     "SPECIAL": "Specjalne obrażenia",
     "PHYSICAL": "Fizyczne obrażenia",
@@ -58,6 +63,7 @@
     "DRACO_METEOR": "Smoczy meteoryt",
     "BLAZE_KICK": "Płonący Kopniak",
     "WISH": "Życzenie",
+    "LUNAR_BLESSING": "Błogosławieństwo Księżyca",
     "CALM_MIND": "Spokojny umysł",
     "DEFENSE_CURL": "Obronne skulenie",
     "IRON_DEFENSE": "Żelazna Obrona",
@@ -70,6 +76,7 @@
     "CHARGE": "Ładowanie",
     "DISCHARGE": "Wyładowanie",
     "BITE": "Ugryzienie",
+    "AQUA_TAIL": "Ogon Aqua",
     "DRAGON_TAIL": "Ogon smoka",
     "DRAGON_BREATH": "Oddech smoka",
     "ICICLE_CRASH": "Upadek sopów",
@@ -85,6 +92,7 @@
     "HAPPY_HOUR": "Szczęśliwa Godzina",
     "TELEPORT": "Teleport",
     "NASTY_PLOT": "Paskudny spisek",
+    "TAKE_HEART": "Nabrać otuchy",
     "THIEF": "Złodziejstwo",
     "STUN_SPORE": "Ogłuszenie Zarodnika",
     "METEOR_MASH": "Meteorowa Miazga",
@@ -94,6 +102,7 @@
     "ROCK_TOMB": "Skalny grobowiec",
     "ROCK_SMASH": "Rozbijanie skał",
     "HEAD_SMASH": "Uderzenie głową",
+    "ROCK_HEAD": "Rock Head",
     "CORRUPTED_NATURE": "Zepsuta natura",
     "CRABHAMMER": "Krabomłot",
     "DIAMOND_STORM": "Diamentowa Burza",
@@ -135,6 +144,7 @@
     "MISTY_SURGE": "Mglisty wzrost",
     "SKY_ATTACK": "Atak z nieba",
     "ILLUSION": "Iluzja",
+    "SHELTER": "Schronienie",
     "SMOG": "Smog",
     "SLUDGE": "śluz",
     "SLUDGE_WAVE": "Fala śluzu",
@@ -311,7 +321,8 @@
     "MOONGEIST_BEAM": "Promień Księżycowego ducha",
     "FLEUR_CANNON": "Działo Kwietnie",
     "SPIRIT_BREAK": "Załamanie ducha",
-    "SHEER_COLD": "Czyste zimno"
+    "SHEER_COLD": "Czyste zimno",
+    "EXTREME_SPEED": "Ekstremalna prędkość"
   },
   "pkm": {
     "DEFAULT": "MissingNo.",
